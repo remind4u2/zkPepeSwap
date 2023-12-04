@@ -1,0 +1,15 @@
+
+SLEEP_MIN = 60
+SLEEP_MAX = 120
+
+SLEEP_APPROVE_MIN = 10
+SLEEP_APPROVE_MAX = 20
+
+TIME_OUT_LIMIT = 120
+
+RETRY = 3
+
+gas_ratio = 0.6
+gas_approve_ratio = 0.75
+
+NORMAL_GAS = 80
