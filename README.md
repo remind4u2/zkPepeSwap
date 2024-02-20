@@ -4,4 +4,6 @@
 
 Swap all your zkPepe tokens to ETH on SyncSwap
 
+обмен всех токенов zkPepe на ETH
+
 Telegram: http://t.me/slow_rich
